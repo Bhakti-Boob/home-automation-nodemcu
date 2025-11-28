@@ -20,15 +20,15 @@
 
 // WiFi credentials 
 #define WIFI_SSID "Bhakti"    
-#define WIFI_PASS "123456789"
+#define WIFI_PASS "xxxxxxxxx"
 
 // SinricPro credentials 
-#define APP_KEY "f4590dfe-0a6e-4d7b-94c7-61ed0dd80b02"
-#define APP_SECRET "dddf5584-79dc-4089-87aa-5d557a28e89c-02e8fbfa-c100-4303-8e65-b7dabb126241"
+#define APP_KEY "xxxxx-xxxxx-xxxxxxx-xxxxxxxxx-xxxx"
+#define APP_SECRET "xxxxxx-xxxxxx-xxxxxx-xxxxxxx-xxxxxxx-xxxxxx-xxxxxx-xxxx"
 
 // Device IDs created in SinricPro 
-#define device_ID_1 "6929a6046ebb39d664c194cc"   // Light
-#define device_ID_2 "6929a639729a4887d7d7d9c9"   // Fan
+#define device_ID_1 "xxxxxxxxxxxxx"   // Light
+#define device_ID_2 "xxxxxxxxxxxxx"   // Fan
 
 // Relay pins driving relay modules
 #define RelayPin1 5   // D1
